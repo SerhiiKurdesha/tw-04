@@ -19,6 +19,10 @@ body {
   background: #427c7cad;
 }
 
+.hero__img {
+  width: 100%;
+}
+
 .toggle {
   position: relative;
   width: 70px;
